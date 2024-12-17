@@ -1,1 +1,0 @@
-console.log("The fastest way to make web applications is to use web application frameworks");
